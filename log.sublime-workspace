@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password"
+			],
+			[
+				"set",
+				"setPlusQtDelike"
+			],
+			[
+				"setPlu",
+				"setPlusQtLike"
+			],
+			[
+				"get",
+				"getIpAddress"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"proce",
+				"processo"
+			],
+			[
+				"enro",
+				"enrollments"
+			],
+			[
+				"sis",
+				"sis99998"
+			],
+			[
+				"setDe",
+				"setDefaultAttributes"
+			],
+			[
+				"tp",
+				"tmpInput"
+			],
+			[
+				"adicionar",
+				"adicionarTr"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"D",
+				"DocumentoHTML"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"O_DOCUMENTO",
+				"O_DOCUMENTO_30"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"GET_",
+				"GET_LOGO"
+			],
+			[
+				"w",
+				"wLAYOUT"
+			],
+			[
+				"O_",
+				"O_LAYOUT"
+			],
+			[
+				"GET",
+				"GET_LAYOUT"
+			],
+			[
+				"p",
+				"pLOGO"
+			],
+			[
+				"SET",
+				"SET_LOGO"
+			],
+			[
+				"LAYOU",
+				"LAYOUT"
+			],
+			[
+				"LAYU",
+				"LAYOUT_VALIDACAO"
+			],
+			[
+				"DE",
+				"DESTINATARIO"
+			],
+			[
+				"DES",
+				"DESTINARIO"
+			],
+			[
+				"P",
+				"pMENSAGEM"
+			],
+			[
+				"ID_DO",
+				"ID_DOMINIO"
+			],
+			[
+				"ID",
+				"ID_TABELA"
+			],
+			[
+				"ID_",
+				"ID_DOMINIO"
+			],
+			[
+				"SET_ID_",
+				"SET_ID_DOMINIO"
+			],
+			[
+				"SET_ID",
+				"SET_ID_CAMPO"
+			],
+			[
+				"W",
+				"wVALIDO"
+			],
+			[
+				"NR",
+				"NR_MATRICULA"
+			],
+			[
+				"NR_",
+				"NR_ANO_SEMESTRE"
+			],
+			[
+				"C_c",
+				"C_CURSO"
+			],
+			[
+				"wnm",
+				"wNM_CURSO"
+			],
+			[
+				"wDt",
+				"wDT_TERMINO"
+			],
+			[
+				"wNR",
+				"wNR_CH"
+			],
+			[
+				"FORM",
+				"FORMATAR_EMENTA"
+			],
+			[
+				"WdS_EME",
+				"wDS_EMENTA_AUX"
+			],
+			[
+				"WDS_EMEN",
+				"wDS_EMENTA_AUX"
+			],
+			[
+				"sUB",
+				"Substr"
+			],
+			[
+				"wDS_EME",
+				"wDS_EMENTA_AUX"
+			],
+			[
+				"wds_EME",
+				"wDS_EMENTA_AUX"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"jqueyr",
+				"jQuery.ajax\tjQuery.ajax"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"lightg",
+				"lightgray"
+			],
+			[
+				"setIdB",
+				"setIdBlocoEAndar"
+			],
+			[
+				"auto",
+				"autocomplete\tAttr"
+			],
+			[
+				"getElement",
+				"getElementById"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"select",
+				"selectedTable"
+			],
+			[
+				"alert",
+				"listAllProperties"
+			],
+			[
+				"r",
+				"readonly\tAttr"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"name",
+				"name\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Package Control: instal",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 281.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.encoding()",
+			"view.encoding"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/node/loadImg",
+		"/C/node/loadImg/routes",
+		"/C/node/loadImg/tmp_img",
+		"/C/node/loadImg/views"
+	],
+	"file_history":
+	[
+		"/C/Projects/Oracle Jet/teste/server2/server.js",
+		"/C/node/loadImg/package.json",
+		"/C/node/loadImg/routes/index.js",
+		"/C/node/webradio/routes/dashboard.js",
+		"/C/Users/dmorita/Desktop/tasks.json",
+		"/C/Users/dmorita/Desktop/loading_save.html",
+		"/C/Users/dmorita/Desktop/SPA.html",
+		"/C/Users/dmorita/Desktop/Spam.json",
+		"/C/Users/dmorita/Desktop/Sent.json",
+		"/C/Users/dmorita/Desktop/Archive.json",
+		"/C/Users/dmorita/Desktop/style.css",
+		"/C/Users/dmorita/Desktop/Inbox.json",
+		"/C/Users/dmorita/Desktop/intro2.html",
+		"/G/Meu Drive/Work's/Integração Ilumno/CANVAS/Teste com o comando cURL",
+		"/G/Meu Drive/Work's/Integração Ilumno/CANVAS/teste comand (1).sql",
+		"/G/Meu Drive/Work's/Integração Ilumno/CANVAS/teste comand.sql",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/views/tour.html",
+		"/C/Projects/Oracle Jet/teste/server2/config.js",
+		"/C/Projects/Oracle Jet/teste/server2/dbconfig.js",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/appController.js",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/index.html",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/viewModels/signin.js",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/viewModels/incidents.js",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/views/basicHeader.html",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/PushClient.js",
+		"/C/Projects/Oracle Jet/teste/FixItFast/scripts/config/oraclejet-serve.js",
+		"/C/Projects/Oracle Jet/teste/firstOjet/src/js/appController.js",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/path_mapping.json",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/sw.js",
+		"/C/Projects/Oracle Jet/teste/FixItFast/src/js/views/signin.html",
+		"/C/Projects/Oracle Jet/teste/firstOjet/src/js/viewModels/dashboard.js",
+		"/C/Projects/Oracle Jet/teste/socketioserver/oracle db examples/node-oracledb-master/examples/resultset1.js",
+		"/C/Projects/Oracle Jet/teste/firstOjet/src/js/views/login.html",
+		"/C/Projects/Oracle Jet/teste/firstOjet/src/js/viewModels/login.js",
+		"/C/Projects/Oracle Jet/teste/firstOjet/src/js/path_mapping.json",
+		"/C/Projects/Oracle Jet/teste/firstOjet/src/js/main.js",
+		"/C/Projects/Oracle Jet/teste/firstOjet/src/js/viewModels/listview.js",
+		"/C/Projects/Oracle Jet/teste/server2/models/user.js",
+		"/C/Projects/Oracle Jet/teste/server2/models/users.js",
+		"/C/Users/dmorita/Desktop/dadoCritografados.bat",
+		"/C/Projects/Oracle Jet/teste/socketioserver/server.js",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/js/appController.js",
+		"/C/Projects/Oracle Jet/teste/socketioserver/db.js",
+		"/C/Projects/Oracle Jet/teste/socketioserver/dbconfig.js",
+		"/C/Projects/Oracle Jet/teste/socketioserver/connect.js",
+		"/C/Projects/Oracle Jet/teste/socketioserver/db-cac-alunos.js",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/js/path_mapping.json",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/js/main.js",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/js/viewModels/dashboard.js",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/scripts/config/oraclejet-serve.js",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/js/viewModels/alunos.js",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/index.html",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/js/views/alunos.html",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/src/tweets.json",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/tweet.json",
+		"/C/apache-tomcat-8.5.4/RUNNING.txt",
+		"/C/Projects/Oracle Jet/teste/myfirtproject/web/index.html",
+		"/C/Users/dmorita/Desktop/chartteste.html",
+		"/G/Meu Drive/Work's/Integração Ilumno/CANVAS/CURL_testes.bat",
+		"/G/Meu Drive/Projetos/node/md-pro-angular-v1.2.0/ng2/assets/js/init/initChartsPage.js",
+		"/C/var/log/webradioApp.log",
+		"/C/Users/dmorita/Desktop/jasny-bootstrap.js",
+		"/C/Users/dmorita/eclipse-workspace/rabbitmq_canvas/logging.log",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180427_133558.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180427_133745.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180427_133614.json",
+		"/C/Users/dmorita/eclipse-workspace/rabbitmq_canvas/old_log/logging.log.1",
+		"/C/Users/dmorita/eclipse-workspace/rabbitmq_canvas/old_log/logging.log",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180427_083219.json",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/views/app/sidebar/sidebar.ejs",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/package.json",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/routes/curtidas.js",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/public/js/like.js",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/public/css/player.css",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/public/js/player.js",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_154008.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_153215.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_153214.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_154023.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_154007.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_154005.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_154026.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_154025.json",
+		"/C/INTEGRACAO/CANVAS/RabbitMQ/2018/04/LOG_CANVAS_RABBITMQ_20180423_153612.json",
+		"/C/Users/dmorita/eclipse-workspace/rabbitmq_canvas/ilumnoLMSGrades.json",
+		"/C/Users/dmorita/Desktop/teste3.html",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/service/service-curtidas.js",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/README.md",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/routes/index.js",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/views/index.ejs",
+		"/C/usr/snmp/persist/snmpapp.conf",
+		"/G/Meu Drive/Projetos/node/webradio/webradio/.env",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/routes/users.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/routes/comentario.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/app/podcast.ejs",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/app/podcast-consulta.ejs",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/app/comentario.ejs",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/public/js/plugins/jquery.datatables.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/service/service-podcast.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/service/service-curtidas.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/routes/curtidas.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/routes/index.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/routes/dashboard.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/index.ejs",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/public/js/player.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/public/css/player.css",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/app/dashboard.ejs",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/app/sidebar/sidebar.ejs",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/service/service-comentario.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/app/partials/script.ejs",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/app.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/public/css/style.css",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/routes/global-routers.js",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/views/app/default_table.html",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/.env",
+		"/C/Program Files/MongoDB/Server/3.6/mongod.cfg",
+		"/C/Users/dmorita/Desktop/dados.sql",
+		"/C/Users/dmorita/Desktop/dados.bat",
+		"/G/Meu Drive/Projetos/node/webradio_teste/webradio/controllers/upload.js",
+		"/G/Meu Drive/Projetos/node/webradio/.env.example",
+		"/G/Meu Drive/Projetos/node/webradio/.env",
+		"/G/Meu Drive/Projetos/node/webradio/auth.js",
+		"/G/Meu Drive/Projetos/node/webradio/db.js",
+		"/G/Meu Drive/Projetos/node/webradio/views/login.ejs",
+		"/G/Meu Drive/Projetos/node/webradio/views/lock.ejs",
+		"/G/Meu Drive/Projetos/node/webradio/views/app/partials/head.ejs",
+		"/G/Meu Drive/Projetos/node/webradio/views/app/partials/script.ejs",
+		"/G/Meu Drive/Projetos/node/webradio/package.json"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"throw",
+			"path",
+			"oracledb"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "log.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
