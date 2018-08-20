@@ -3,6 +3,13 @@ const router  = express.Router();
 const fs      = require('fs');
 const Client  = require('ssh2').Client;
 
+/**
+const connSettings = {
+     host: 'host',
+     username: 'user',
+     password: 'pass'
+};
+*/
 const connSettings = require('connectionFTP');
 
 const remotePathToList = '/home/oracle/fotos/londrinense';
