@@ -9,6 +9,7 @@ const connSettings = {
      username: 'user',
      password: 'pass'
 };
+module.exports = connSettings;
 */
 const connSettings = require('connectionFTP');
 
